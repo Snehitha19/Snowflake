@@ -1,8 +1,7 @@
 
 import streamlit;
 streamlit.title("My Parents New Healthy Diner");
-streamlit.header("What is the menu");
-streamlit.text("Bread and Butter");
-streamlit.text("Idli with sambar");
-streamlit.text("Dosa with chutney");
-streamlit.text("sandwitch");
+streamlit.header("Breakfast Menu");
+streamlit.text("Omega 3 & Blueberry Oatmeal");
+streamlit.text("Kale , Spinach and Rocket Smoothie");
+streamlit.text("Hard-Boiled Free-Range Egg");
